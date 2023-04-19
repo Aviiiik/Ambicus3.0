@@ -1,0 +1,1 @@
+this are the pages, most of the content is written in the components
