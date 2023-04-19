@@ -1,0 +1,36 @@
+.navbar-container {
+    width: 100%;
+    height: 80px ;
+    background-color: rgb(247, 110, 238);
+    margin: 0;
+    padding: 0;
+    display:flex;
+    justify-content: space-around;
+}
+
+
+
+.left-box{
+    margin : 20px 0px;
+    color:white;
+    font-size: 50px;
+    line-height: 80px;
+    padding: 0px 100px;
+    font-weight:bold;
+}
+
+.right-box{
+    float:right;
+    margin-right:20px;
+    padding: 20px;
+    
+}
+.right-box li{
+
+    display: inline-block;
+    line-height:80 px;
+    margin: 0 5px;
+    font-size: large;
+    font-weight: 100;
+}
+ 
